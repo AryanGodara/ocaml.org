@@ -3,7 +3,7 @@ title: Not-learning is a skill too
 description: "To be successful in tech, it\u2019s well known that you must keep your
   skills up to date. The onus is on each individual to do this, no-one will do it
   for you, and companies that provide ongoing p\u2026"
-url: https://gaius.tech/2018/07/29/not-learning-is-a-skill-too/
+url: https://gaius.tech/2018/07/29/not-learning-is-a-skill-too/ - [1 Client error: Couldn't resolve host name]
 date: 2018-07-29T12:23:30-00:00
 preview_image: https://gaiustech.files.wordpress.com/2018/07/cropped-lynx.jpg?w=180
 featured:

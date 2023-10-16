@@ -1,7 +1,7 @@
 ---
 title: CUCL Recruitment Fair 2016
 description:
-url: http://reynard.io/2016/11/18/CUCLFair.html
+url: http://reynard.io/2016/11/18/CUCLFair.html - [1 Client error: Couldn't resolve host name]
 date: 2016-11-18T00:00:00-00:00
 preview_image:
 featured:
@@ -32,7 +32,7 @@ source:
 <br/>
 </p>
 
-<p><a href="https://www.janestreet.com/">Jane Street</a> use OCaml and regularly release patches and features upstream. Their <a href="https://blogs.janestreet.com/category/ocaml/">Tech Blog</a> details many of the OCaml features they use and develop in-house, and many of these are collaborative projects within the OCaml Labs. We work closely with their development team on compiler and runtime improvements, language features and teaching resources for interns and students.</p>
+<p><a href="https://www.janestreet.com/">Jane Street</a> use OCaml and regularly release patches and features upstream. Their <a href="https://blogs.janestreet.com/category/ocaml/ - [1 Client error: SSL peer certificate or SSH remote key was not OK]">Tech Blog</a> details many of the OCaml features they use and develop in-house, and many of these are collaborative projects within the OCaml Labs. We work closely with their development team on compiler and runtime improvements, language features and teaching resources for interns and students.</p>
 
 <p><a href="https://www.imandra.ai/">Aesthetic Integration</a> developed the Imandra Modelling Language (IML) which combines a programming language with mathematical verification logic to reason about a large scale system. IML is based on a subset of OCaml and introduces a powerful automated theorem proving engine which can be applied to a huge range of industry areas - currently financial markets.</p>
 

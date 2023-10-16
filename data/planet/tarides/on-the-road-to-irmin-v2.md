@@ -46,7 +46,7 @@ for <a href="https://github.com/mirage/ocaml-git/pull/351">listing remotes</a>, 
 more.</p>
 <p>These fixes are possible because users tried end-to-end usecases that
 found these corner cases, so we&rsquo;d really like to see more.  For
-example, our friends at <a href="https://robur.io">Robur</a> have submitted fixes
+example, our friends at <a href="https://robur.io - [1 Client error: Couldn't resolve host name]">Robur</a> have submitted fixes
 from their integration of it into their upcoming <a href="https://github.com/roburio/caldav">CalDAV engine</a>.
 The Mirage <a href="https://github.com/Engil/Canopy">canopy</a> blog engine can now also
 push/pull reliably from pure MirageOS unikernels between nodes, which
@@ -89,7 +89,7 @@ once we complete the Irmin 2.0 tests.</p>
 <p>Another new area of huge interest to us is
 <a href="https://graphql.org">GraphQL</a> in order to provide frontends a rich
 query language for Irmin hosted applications.  Irmin 2.0 includes a
-builtin GraphQL server so you can <a href="https://twitter.com/cuvius/status/1017136581755457539">manipulate your Git repo via
+builtin GraphQL server so you can <a href="https://twitter.com/cuvius/status/1017136581755457539 - [1 Client error: Number of redirects hit maximum amount]">manipulate your Git repo via
 GraphQL</a>.</p>
 <p>If you are interested in (for example) compiling elements of Irmin to
 JavaScript or wasm, for usage in frontends, then the Irmin 2.0 release
