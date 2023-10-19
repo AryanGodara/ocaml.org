@@ -279,9 +279,9 @@ rounds:
       - title: "MIDI over Ethernet with MirageOS"
         description: >
           MIDI, which stands for Musical Instrument Digital Interface, is a widely used protocol in the world of music and audio technology.
-          MirageOS is a library operating system that specializes in creating lightweight, secure, and efficient unikernels. Unikernels are highly specialized, 
-          single-purpose virtual machine images designed for specific applications, and is writting in OCaml.
-          The project focused on implementing the rtpMIDI protocol for serializing-deserializing of MIDI messages over Ethernet. And implementing usecases like
+          MirageOS is a library operating system that ses in creating lightweight, secure, and efficient unikernels. Unikernels are highly specialised, 
+          single-purpose virtual machine images designed for specific applications, and it's written in OCaml.
+          The project focused on implementing the rtpMIDI protocol for serialising-deserialising of MIDI messages over Ethernet. And implementing use cases like
           a publisher-subcriber based server-client model for MIDI messages.
         mentee: "Aryan Godara"
         source: https://github.com/AryanGodara/rtpmidi
